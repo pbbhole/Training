@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestCAlculatorAPI">
+<test name="UnitTesting">
+<classes>
+	<class name="CGIJenkinsBatch.CalculatorAPI.testCAlculatorApi"></class>
+</classes>
+</test>
+</suite>
