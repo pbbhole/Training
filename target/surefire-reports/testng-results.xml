@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="TestCAlculatorAPI" duration-ms="70" started-at="2020-10-22T09:44:49 UTC" finished-at="2020-10-22T09:44:49 UTC">
+  <suite name="TestCAlculatorAPI" duration-ms="83" started-at="2020-10-22T11:02:03 UTC" finished-at="2020-10-22T11:02:03 UTC">
     <groups>
     </groups>
-    <test name="UnitTesting" duration-ms="70" started-at="2020-10-22T09:44:49 UTC" finished-at="2020-10-22T09:44:49 UTC">
+    <test name="UnitTesting" duration-ms="83" started-at="2020-10-22T11:02:03 UTC" finished-at="2020-10-22T11:02:03 UTC">
       <class name="CGIJenkinsBatch.CalculatorAPI.testCAlculatorApi">
-        <test-method status="PASS" signature="StartTest()[pri:0, instance:CGIJenkinsBatch.CalculatorAPI.testCAlculatorApi@7d9d1a19]" name="StartTest" is-config="true" duration-ms="10" started-at="2020-10-22T09:44:49 UTC" finished-at="2020-10-22T09:44:49 UTC">
+        <test-method status="PASS" signature="StartTest()[pri:0, instance:CGIJenkinsBatch.CalculatorAPI.testCAlculatorApi@7d9d1a19]" name="StartTest" is-config="true" duration-ms="10" started-at="2020-10-22T11:02:03 UTC" finished-at="2020-10-22T11:02:03 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartTest -->
-        <test-method status="PASS" signature="TestADD()[pri:0, instance:CGIJenkinsBatch.CalculatorAPI.testCAlculatorApi@7d9d1a19]" name="TestADD" duration-ms="9" started-at="2020-10-22T09:44:49 UTC" finished-at="2020-10-22T09:44:49 UTC">
+        <test-method status="PASS" signature="TestADD()[pri:0, instance:CGIJenkinsBatch.CalculatorAPI.testCAlculatorApi@7d9d1a19]" name="TestADD" duration-ms="3" started-at="2020-10-22T11:02:03 UTC" finished-at="2020-10-22T11:02:03 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestADD -->
-        <test-method status="PASS" signature="TestSUB()[pri:0, instance:CGIJenkinsBatch.CalculatorAPI.testCAlculatorApi@7d9d1a19]" name="TestSUB" duration-ms="0" started-at="2020-10-22T09:44:49 UTC" finished-at="2020-10-22T09:44:49 UTC">
+        <test-method status="PASS" signature="TestSUB()[pri:0, instance:CGIJenkinsBatch.CalculatorAPI.testCAlculatorApi@7d9d1a19]" name="TestSUB" duration-ms="0" started-at="2020-10-22T11:02:03 UTC" finished-at="2020-10-22T11:02:03 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestSUB -->
